@@ -13,13 +13,30 @@ Design attached as as image for review
 Custom CSS styling with background colors,fonts and layout
 
 ## How to view 
-1.Clone or download the respository
-2.Open the index html file in your web browser
-3.Or use the live server extension in vs code for live preview
+1.Clone or download the respository.
+2.Open the index html file in your web browser.
+3.Or use the live server extension in vs code for live preview.
+
+##  Purpose of the website
+The main purpose of this website is to:
+1. Display a collection of photography work.
+2. Practice HTML structure and semantic elements.
+3. Demonstrate basic version control using Git.
  
  ##Technologies used 
  -HTML
  -CSS
  -GITHUB
+ 
+ #Version Control
+ Git is used to track changes throughout the development
+ of this project.
+ Commits are made regularly to document progress and updates to the website.
 
-## folder structure
+
+##Author 
+**Tabitha Mburu
+photography website assignment
+
+##License
+This project is created for educational purposes only.
