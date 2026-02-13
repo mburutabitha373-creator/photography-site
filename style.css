@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 body {
     font-family: Arial, sans-serif;
     background-color: violet;
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align:center;
     color: black;
 }
 
@@ -26,7 +26,7 @@ section {
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 
-/* Project Members */
+
 .members {
     display: flex;
     flex-wrap: wrap;
@@ -52,7 +52,7 @@ section {
     transform: scale(1.05);
 }
 
-/* Gallery */
+
 .photos {
     display: flex;
     flex-wrap: wrap;
@@ -74,7 +74,7 @@ section {
     border-color: violet;
 }
 
-/* Contact Form */
+
 form {
     max-width: 400px;
     margin: 0 auto;
@@ -137,7 +137,6 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
-=======
 body{
     font-family: Arial, sans-serif;
     background-color: violet;
@@ -190,4 +189,4 @@ box-model-container li{
     font-size: 1rem;
 
 }
->>>>>>> 072d13366d5c4c252bc64a2cde506a09569118b4
+
