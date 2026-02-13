@@ -20,4 +20,5 @@ To run the project locally:
 
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/mburutabitha373-creator/photography-project.git
+
+   git clone https://github.com/mburutabitha373-creator/photography-site.git
