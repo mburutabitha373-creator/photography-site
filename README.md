@@ -28,15 +28,15 @@ The main purpose of this website is to:
  -CSS
  -GITHUB
  
- #Version Control
+ ## Version Control
  Git is used to track changes throughout the development
  of this project.
  Commits are made regularly to document progress and updates to the website.
 
 
-##Author 
+## Author 
 **Tabitha Mburu
 photography website assignment
 
-##License
+## License
 This project is created for educational purposes only.
