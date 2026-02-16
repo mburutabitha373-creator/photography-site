@@ -1,4 +1,4 @@
-#My Photographic Site
+## My Photographic Site
 This is a simple website showcasing my favourite photos.
 It include a photo gallery ,a short biography section,and a design
 overview.The project is part of my learning journey in web development.
