@@ -1,4 +1,4 @@
-## My Photographic Site
+# My Photographic Site
 This is a simple website showcasing my favourite photos.
 It include a photo gallery ,a short biography section,and a design
 overview.The project is part of my learning journey in web development.
@@ -23,12 +23,12 @@ The main purpose of this website is to:
 2. Practice HTML structure and semantic elements.
 3. Demonstrate basic version control using Git.
  
- ##Technologies used 
+ ## Technologies used 
  -HTML
  -CSS
  -GITHUB
  
- #Version Control
+ ## Version Control
  Git is used to track changes throughout the development
  of this project.
  Commits are made regularly to document progress and updates to the website.
